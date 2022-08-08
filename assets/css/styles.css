@@ -64,6 +64,10 @@ hr {
     align-items: center;
     transition: .4s ease-in;
 }
+.nft_bg .view_img{
+    fill: var(--neutral-color);
+    width: 70px;
+}
 .nft_display .nft_img{
     width: 100%;
     object-fit: cover;
